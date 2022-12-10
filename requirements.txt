@@ -2,7 +2,7 @@ certifi==2022.12.7
 chardet==3.0.4
 idna==2.7
 Lango==0.21.0
-nltk==3.4.5
+nltk==3.6.6
 pycorenlp==0.3.0
 requests==2.20.0
 six==1.11.0
